@@ -47,8 +47,8 @@ Users are able to:
 
 ### Screenshot
 
-![](./assets/images/screenshots/screenshot-1.png)
-![](./assets/images/screenshots/screenshot-2.png)
+- [1](./assets/images/screenshots/screenshot-1.png)
+- [2](./assets/images/screenshots/screenshot-2.png)
 
 ### Links
 
