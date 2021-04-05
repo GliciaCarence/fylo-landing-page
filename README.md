@@ -52,7 +52,7 @@ Users are able to:
 
 ### Links
 
--   Live Site URL: [You can see the landing page here](https://your-live-site-url.com)
+-   Live Site URL: [You can see the landing page here](https://react-fylo-landing-page.netlify.app/)
 
 ## My process
 
