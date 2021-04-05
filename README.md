@@ -49,7 +49,7 @@ Users are able to:
 
 <img width="636" alt="screenshot-1" src="https://user-images.githubusercontent.com/71458056/113624108-82799e00-965f-11eb-83ee-8c28d8d08038.png">
 
-<img width="581" alt="screenshot-2" src="https://user-images.githubusercontent.com/71458056/113623685-fcf5ee00-965e-11eb-94a8-f4704537c4d7.png">
+<img width="636" alt="screenshot-2" src="https://user-images.githubusercontent.com/71458056/113624423-ec924300-965f-11eb-995c-50a887cb9df7.png">
 
 ### Links
 
