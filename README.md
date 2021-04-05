@@ -47,8 +47,8 @@ Users are able to:
 
 ### Screenshot
 
-- [1](./assets/images/screenshots/screenshot-1.png)
-- [2](./assets/images/screenshots/screenshot-2.png)
+<img width="581" alt="screenshot-1" src="https://user-images.githubusercontent.com/71458056/113623646-eea7d200-965e-11eb-8b6c-706d9bf58db9.png">
+<img width="581" alt="screenshot-2" src="https://user-images.githubusercontent.com/71458056/113623685-fcf5ee00-965e-11eb-94a8-f4704537c4d7.png">
 
 ### Links
 
